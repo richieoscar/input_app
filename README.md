@@ -10,7 +10,8 @@ https://hng.tech/
 A flutter mobile app project for HNG 8 internship
 
 ## Task 2
-Check the task2 folder for task 2
+Please Check this link for task 2
+https://github.com/richieoscar/task2
 
 ## Task 5
 
