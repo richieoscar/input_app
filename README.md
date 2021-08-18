@@ -1,7 +1,7 @@
 # input App
 ## HNG Internship 
 
-![Screenshot_20210818-164621_1](https://user-images.githubusercontent.com/71092412/129929868-befccf42-7d5c-4c83-9e6b-e0c2fe641a95.png)
+https://hng.tech/
 
 
 
